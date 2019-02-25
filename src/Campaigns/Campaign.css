@@ -1,0 +1,24 @@
+.campaign-details{
+    border: 1px aqua solid;
+    margin: 2px;
+    padding: 10px;
+    height: 50px;
+}
+.campaign-details div.left{
+    width: 50%;
+    float: left;
+}
+.clear{
+    clear: both;
+}
+
+.campaign-details .title{
+    display: block;
+    width: 100%;
+    font-weight: 600;
+    font-size: larger;
+}
+.campaign-details .created-on{
+    font-weight: 300;
+    font-size: small
+}

@@ -1,0 +1,2 @@
+export const ADD_CAMPAIGN = "ADD_CAMPAIGN";
+export const PAUSE_CAMPAIGN = "PAUSE_CAMPAIGN";
